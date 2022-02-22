@@ -1,2 +1,2 @@
-# Image_Classification
-Sports Celebrity image classification model using OpenCv
+# Image_Recognition
+Sports Celebrity image Recognition model using OpenCv
